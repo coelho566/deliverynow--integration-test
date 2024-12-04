@@ -1,0 +1,15 @@
+{
+  "name": "X-Frango Duplo com bacon",
+  "description": "Um delicioso X-Franco com hamburguer de frango duplo",
+  "category": "LANCHE",
+  "price": 29.99,
+  "image": "http://example.com/cheeseburger.jpg",
+  "availability": true,
+  "ingredients": [
+    "Hambúrguer de frango",
+    "Queijo",
+    "Alface"
+  ],
+  "breadType": "Pão de hambúrguer",
+  "calories": 700
+}
